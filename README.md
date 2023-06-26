@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peiqi07
-- 👀 I’m interested in travel
+- 👀 I’m interested in dance
 - 🌱 I’m currently learning coding in C linguage
 - 💞️ I’m looking to collaborate on Arduino project
 
